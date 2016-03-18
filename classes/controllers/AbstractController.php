@@ -1,7 +1,7 @@
 <?php
 /**
- * @package  api-framework
- * @author   Martin Bean <martin@martinbean.co.uk>
+ * @package  Rest-fwk
+ *  
  * @abstract
  */
 abstract class AbstractController {}
